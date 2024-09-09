@@ -61,5 +61,5 @@ Finally, after searching through their GitHub, Twitter, and WordPress, I found t
 ![Password Confirmation](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img6.png)
 
 #### Q-7: What is the person's password?
-- **Answer:** (Include the discovered password)
+- **Answer:** pennYDr0pper.!
 
