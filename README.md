@@ -23,9 +23,9 @@ After identifying the author, I located their Twitter account and found an inter
 #### Q-1: What is this user's avatar of?
 - **Answer:** Cat
 
-On their GitHub account, they have only two repositories. After exploring them, I discovered more information.
-
 ![GitHub Profile](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img3.png)
+
+On their GitHub account, they have only two repositories. After exploring them, I discovered more information.
 
 #### Q-2: What city is this person in?
 - **Answer:** London
