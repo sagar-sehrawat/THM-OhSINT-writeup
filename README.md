@@ -30,11 +30,15 @@ On their GitHub account, they have only two repositories. After exploring them, 
 #### Q-2: What city is this person in?
 - **Answer:** London
 
-One Twitter post revealed a BSSID. Using the BSSID, I searched for the SSID they connected to.
-
 ![BSSID Twitter Post](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img2.png)
 
+One Twitter post revealed a BSSID. Using the BSSID, I searched for the SSID they connected to.
+
+![GitHub Email](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img4.png)
+
 After searching the BSSID online and clicking on the map results, I found the person's location is indeed in London. The SSID is `UnileverWiFi`.
+
+![WordPress Blog](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img5.png)
 
 #### Q-3: What is the SSID of the WAP he connected to?
 - **Answer:** UnileverWiFi
@@ -45,20 +49,17 @@ After searching the BSSID online and clicking on the map results, I found the pe
 #### Q-5: What site did you find his email address on?
 - **Answer:** GitHub
 
-![GitHub Email](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img4.png)
-
 The person has also mentioned going to New York for a holiday on their WordPress blog.
+
+![Password in Source Code](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img8.png)
 
 #### Q-6: Where has he gone on holiday?
 - **Answer:** New York
 
-![WordPress Blog](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img5.png)
-
 Finally, after searching through their GitHub, Twitter, and WordPress, I found their password hidden within the page source of the WordPress site.
 
-![Password in Source Code](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img8.png)
+![Password Confirmation](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img6.png)
 
 #### Q-7: What is the person's password?
 - **Answer:** (Include the discovered password)
 
-![Password Confirmation](https://github.com/sagar-sehrawat/THM-OhSINT-writeup/blob/main/img/img6.png)
